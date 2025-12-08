@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Dag1/Dag1/Dag1.fsproj" Id="d2e7eed8-9753-44c7-a3e1-d4f6b659524f" />
+  <Project Path="Dag1/Dag1.fsproj" Id="d2e7eed8-9753-44c7-a3e1-d4f6b659524f" />
+  <Project Path="Dag2/Dag2.fsproj" Id="42954218-4fd9-4505-84fa-4e6ce0c39479" />
 </Solution>
