@@ -3,4 +3,5 @@
   <Project Path="Dag1/Dag1.fsproj" Id="d2e7eed8-9753-44c7-a3e1-d4f6b659524f" />
   <Project Path="Dag2/Dag2.fsproj" Id="42954218-4fd9-4505-84fa-4e6ce0c39479" />
   <Project Path="Dag3/Dag3.fsproj" Id="358e31c2-0ba7-4669-a0a2-706944198060" />
+  <Project Path="Dag5/Dag5.fsproj" Id="27106a2c-08e2-4d65-873f-183c591e70f5" />
 </Solution>

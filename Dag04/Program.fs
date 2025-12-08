@@ -1,7 +1,6 @@
 ﻿open System.IO
 open System
 
-//turn into multidimensional array
 let mutable input = 
     File.ReadAllLines("input.txt")
     |> Array.map (fun line -> line.ToCharArray())
